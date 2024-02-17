@@ -1,0 +1,4 @@
+Q5: Define Favicon and give an illustrative example .
+And: A favicon is a small icon associated with a website that appears in the browser tab or window, next to the page title.
+Example of Favicon?
+Ans: <link rel=" shortcut icon" href=" ./logo.png" type="image/x-icon">

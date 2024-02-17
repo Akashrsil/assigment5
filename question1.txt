@@ -1,0 +1,4 @@
+Q1: What is SEO and Explain the importance of SEO?
+Ans: SEO refers to Search Engine Optimization .It means for a search engine like Google and bing when ever we search for a result so our web page link will display at the top of page .The main Goal is to optimized our page according to search engine .
+Importance of SEO:
+Ans: It is important because it our Website is not optimised according to search Engine so our web page will not display on the top of web page and it make difficult for user to find our Web Page.
